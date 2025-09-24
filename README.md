@@ -112,7 +112,7 @@ Europe ตลาดค่อนข้างนิ่ง เงินเดือ
 
 **_Focus on posting jobs 2024 _**
 
-**Graph 6 : Average Salary by Industry Group **
+****Graph 6 : Average Salary by Industry Group ****
 
 ข้อมูลนี้พาเราไปสำรวจว่า “สาย Data” มีมูลค่าอย่างไรในอุตสาหกรรมต่าง ๆ ปี 2024 แทนที่จะดูเพียงตัวเลขเงินเดือน 
 
@@ -128,7 +128,7 @@ Europe ตลาดค่อนข้างนิ่ง เงินเดือ
 
 สาย Travel & Tourism เพดานต่ำและแคบที่สุด อาจบอกได้ว่า รายได้และตำแหน่งจำกัดมาก
 
-**Graph 7 : Skill Demand by Industry Group **
+****Graph 7 : Skill Demand by Industry Group ****
 
 <img width="1264" height="590" alt="image" src="https://github.com/user-attachments/assets/7266d6e3-96d5-4a63-bac5-41bf761c9881" />
 
@@ -147,7 +147,7 @@ Core Skills (Python, SQL, Communication) ที่ต้องแข็งแร
 
 Specialized Skills (เช่น ML/Deep Learning, Excel, Collaboration) = จะช่วยต่อยอดเฉพาะ industry ที่เราอยากเข้าไป
 
-
+****Graph 8 : Average  ****
 
 
 

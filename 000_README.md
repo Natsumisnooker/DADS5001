@@ -1,5 +1,5 @@
-<p style="font-size:24px; color:#0ea5e9;">
- **ใครอยากเป็น Data Science ยกมือขึ้น**
+<p align="center">
+ <img src="assets/ds-callout.svg" alt="ใครอยากเป็น Data Science ยกมือขึ้น" width="820">
 </p>
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”

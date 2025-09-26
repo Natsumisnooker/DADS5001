@@ -35,7 +35,7 @@
 <p align="center">
 <img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/0347bbeb-945f-4192-b48c-ec91fac002e3" />
 </p>
-<p align="center"><b></b>รูปที่ 2 แนวโน้มจำนวน Job ระหว่าง Data Scientist และ Other Roles in 2020 - 2024</b></p>
+<p align="center"><b>รูปที่ 2 แนวโน้มจำนวน Job ระหว่าง Data Scientist และ Other Roles in 2020 - 2024</b></p>
 
 </br>
 </br>
@@ -46,18 +46,22 @@
 Data Scientist ยังคงเติบโต แต่ specialist roles (AI Engineer, ML Engineer, Research Scientist, Data Engineer) โตแรงแบบก้าวกระโดด
 ตลาด Data/AI กำลังขยายจาก generalist → specialist
 
-****สรุปจากข้อมูล Insight: ตลาด Data/AI โตแรงมาก แต่ spotlight ไม่ได้อยู่ที่ Data Scientist เพียงอย่างเดียวอีกต่อไป****
 
+</br>
+</br>
 ##
-****Graph 3: Share of Data Scientist vs Other Data/AI Roles (2020-2024)****
+### ****Share of Data Scientist vs Other Data/AI Roles (2020-2024)****
 
-- กราฟนี้ช่วยให้เห็นการเปลี่ยนแปลงของสัดส่วน (%) ชัดเจน
-
+</br>
+<p align="center">
 <img width="1185" height="589" alt="image" src="https://github.com/user-attachments/assets/a69072e2-b763-4340-90bd-ec8476ca1546" />
-
-Data Scientist ลดลงจาก 49% → 30% (2020–2023)
-Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช่วงเดียวกัน
-
+</p>
+<p align="center"><b>รูปที่ 3 % Share role ของ Data Scientist และ Role อื่น </b></p>
+</br>
+</br>
+จากกราฟนี้ แสดงให้เห็นการเปลี่ยนแปลงของสัดส่วน (%) ชัดเจน โดยพบว่า</br>
+Data Scientist ลดลงจาก 49% → 30% (2020–2023)</br>
+Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช่วงเดียวกัน</br>
 ปี 2024 Data Scientist มี rebound เล็กน้อย แต่ยังตามหลัง specialist roles
 
 **สรุปจากข้อมูล Insight: จุดเปลี่ยนตลาดอยู่ในช่วง 2022–2023 ที่ specialist roles แซง Data Scientist อย่างเด็ดขาด**

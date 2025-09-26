@@ -28,7 +28,6 @@
 <h2>Data Science Roles Analysis (2020–2024)</h2>
 </br>
 
-### ****Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)****
 
 </br>
 </br>
@@ -52,7 +51,6 @@ Data Scientist ยังคงเติบโต แต่ specialist roles (AI 
 
 ##
 
-### ****Share of Data Scientist vs Other Data/AI Roles (2020-2024)****
 
 </br>
 <p align="center">

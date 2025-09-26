@@ -1,4 +1,3 @@
-
 <h1 class="heading-accent underline-soft">"ใครอยากเป็น Data Science ยกมือขึ้น" </h1>
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”
@@ -26,9 +25,6 @@
 
 ##
 <h2>Data Science Roles Analysis (2020–2024)</h2>
-</br>
-
-
 </br>
 </br>
 <p align="center">

@@ -1,11 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 240" width="1200" height="240">
-  <rect width="100%" height="100%" fill="transparent"/>
-  <text x="50%" y="50%"
-        dominant-baseline="middle" text-anchor="middle"
-        font-family="Inter, Arial, 'Noto Sans Thai', sans-serif"
-        font-size="84" font-weight="800"
-        fill=
-
 
 <h1 class="heading-accent underline-soft">"ใครอยากเป็น Data Science ยกมือขึ้น" </h1>
 

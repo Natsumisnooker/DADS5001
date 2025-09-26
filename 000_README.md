@@ -1,9 +1,55 @@
+/* แนะนำ: ใช้ตัวแปรให้แก้ทีเดียวทั้งเว็บ */
+:root{
+  --font-heading: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans Thai", Arial, sans-serif;
+  --c-ink: #0f172a;      /* สีข้อความหลัก */
+  --c-accent: #0ea5e9;   /* สีหัวข้อเน้น */
+  --c-sub: #475569;      /* สีหัวข้อรอง */
 
-<p align="center">
+  /* สเกลขนาดหัวข้อ (responsive ด้วย clamp) */
+  --fs-h1: clamp(2rem, 3vw + 1rem, 3rem);   /* ~32–48px */
+  --fs-h2: clamp(1.5rem, 2vw + 0.8rem, 2.25rem);
+  --fs-h3: clamp(1.25rem, 1.5vw + 0.6rem, 1.75rem);
+  --fs-h4: 1.25rem;
+  --fs-h5: 1.125rem;
+  --fs-h6: 1rem;
+}
 
-  <src="assets/ds-callout.svg" alt="ใครอยากเป็น Data Science ยกมือขึ้น" width="900">
+h1, h2, h3, h4, h5, h6{
+  font-family: var(--font-heading);
+  font-weight: 700;             /* ตัวหนา */
+  line-height: 1.25;
+  margin: 0 0 .5em 0;           /* ช่องไฟด้านล่าง */
+  color: var(--c-ink);          /* สีเริ่มต้น */
+}
 
-</p>
+/* ขนาดรายระดับ */
+h1{ font-size: var(--fs-h1); }
+h2{ font-size: var(--fs-h2); }
+h3{ font-size: var(--fs-h3); }
+h4{ font-size: var(--fs-h4); }
+h5{ font-size: var(--fs-h5); }
+h6{ font-size: var(--fs-h6); }
+
+/* สีธีม (เลือกใช้ได้) */
+.heading-accent{ color: var(--c-accent); }  /* ฟ้าเด่น */
+.heading-sub{ color: var(--c-sub); }        /* เทารอง */
+
+/* ตัวเลือก: น้ำหนักเฉพาะ */
+.weight-800{ font-weight: 800; }
+.weight-600{ font-weight: 600; }
+
+/* ตัวเลือก: เส้นใต้หัวข้อบาง ๆ */
+.underline-soft{
+  position: relative;
+}
+.underline-soft::after{
+  content:"";
+  position:absolute; left:0; bottom:-.3em;
+  width:3.5ch; height:3px; background: var(--c-accent);
+  border-radius: 2px;
+}
+
+<h1>"ใครอยากเป็น Data Science ยกมือขึ้น"</h1>
 
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”

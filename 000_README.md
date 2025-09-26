@@ -1,4 +1,4 @@
-# ***ใครอยากเป็น Data Science ยกมือขึ้น***
+# **ใครอยากเป็น Data Science ยกมือขึ้น**
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”
 ตลอดทศวรรษที่ผ่านมา Data Scientist กลายเป็น role ในฝันของใครหลาย ๆ คน ทั้งในแง่รายได้สูง โอกาสกว้าง และมีความสำคัญต่อการตัดสินใจเชิงกลยุทธ์ขององค์กร
@@ -10,11 +10,12 @@
 ##
 ### **Insight : Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?**
 
-##
-
+## 
+#
 <p align="center">
 <img width="1385" height="689" alt="image" src="https://github.com/user-attachments/assets/5a3c01ac-2e00-4c12-b74d-76d3151e0d87" />
 </p>
+#
 <p align="center"><em>รูปที่ 1 จำนวน Job ในแต่ละปี</em></p>
 
 

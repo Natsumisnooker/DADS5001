@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="assets/ds-callout.svg" alt="ใครอยากเป็น Data Science ยกมือขึ้น" width="900">
+  <src="assets/ds-callout.svg" alt="ใครอยากเป็น Data Science ยกมือขึ้น" width="900">
 
 </p>
 

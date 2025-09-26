@@ -16,7 +16,7 @@
 <p align="center">
 <img width="1385" height="689" alt="image" src="https://github.com/user-attachments/assets/5a3c01ac-2e00-4c12-b74d-76d3151e0d87" />
 </p>
-<p align="center"><b></b>รูปที่ 1 จำนวน Job ในแต่ละปี</b></p>
+<p align="center"><b>รูปที่ 1 จำนวน Job ในแต่ละปี</b></p>
 
 </br>
 </br>
@@ -49,7 +49,9 @@ Data Scientist ยังคงเติบโต แต่ specialist roles (AI 
 
 </br>
 </br>
+
 ##
+
 ### ****Share of Data Scientist vs Other Data/AI Roles (2020-2024)****
 
 </br>

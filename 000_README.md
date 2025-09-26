@@ -60,52 +60,38 @@ Data Scientist ยังคงเติบโต แต่ specialist roles (AI 
 </p>
 <p align="center"><b>รูปที่ 3 % Share role ของ Data Scientist และ Role อื่น </b></p>
 </br>
-</br>
+
 จากกราฟนี้ แสดงให้เห็นการเปลี่ยนแปลงของสัดส่วน (%) ชัดเจน โดยพบว่า</br>
 Data Scientist ลดลงจาก 49% → 30% (2020–2023)</br>
 Other Data/AI Roles เพิ่มขึ้นจาก 51% → 70% ในช่วงเดียวกัน</br>
 ปี 2024 Data Scientist มี rebound เล็กน้อย แต่ยังตามหลัง specialist roles
 
-**สรุปจากข้อมูล Insight: จุดเปลี่ยนตลาดอยู่ในช่วง 2022–2023 ที่ specialist roles แซง Data Scientist อย่างเด็ดขาด**
-
 ##
-**Graph 4 : Median Salary & Job Count Heatmaps (2024) - Core Data Roles**
+
+### **Graph 4 : Median Salary & Job Count Heatmaps (2024) - Core Data Roles**
+
+</br>
+<p align="center">
 <img width="1596" height="790" alt="image" src="https://github.com/user-attachments/assets/7282da60-fa64-48b6-a1ab-2ce84540e08d" />
+</p>
+<p align="center"><b>รูปที่ 3 % Share role ของ Data Scientist และ Role อื่น </b></p>
+</br>
 
-กราฟนี้เปรียบเทียบ Median Salary (ซ้าย) และ Job Count (ขวา) ของ Core Data Roles ใน 6 ประเทศหลัก (US, CA, GB, DE, AU, IN) ปี 2024
+กราฟแสดงการเปรียบเทียบ Median Salary (ซ้าย) และ Job Count (ขวา) ของ Core Data Roles ใน 6 ประเทศหลัก (US, CA, GB, DE, AU, IN) ปี 2024
 
-**Median Salary Heatmap (ซ้าย)**
-- US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด
+**Median Salary Heatmap (ซ้าย)** </br>
+- US นำโด่ง: ทุกตำแหน่งมี median salary สูงสุด</br>
+- Research Scientist มีรายได้ประมาณ 194k USD/ปี</br>
+- Machine Learning Engineer มีรายได้ประมาณ  190k USD/ปี</br>
+- AI Engineer มีรายได้ประมาณ 165k USD/ปี</br>
 
-- Research Scientist มีรายได้ประมาณ 194k USD/ปี
+**Job Count Heatmap (ขวา)** </br>
+- US ครองจำนวนงาน สูงสุดทุก role</br>
+- Data Scientist มีตำแหน่งที่เปิดรับ 8,238 ตำแหน่ง</br>
+- Data Engineer มีตำแหน่งที่เปิดรับ 6,261 ตำแหน่ง</br>
+- Machine Learning Engineer มีตำแหน่งที่เปิดรับ 4,223 ตำแหน่ง</br>
 
-- Machine Learning Engineer มีรายได้ประมาณ  190k USD/ปี
 
-- AI Engineer มีรายได้ประมาณ 165k USD/ปี
-
-**สรุปจากข้อมูลกราฟ Median Salary Heatmap :**
-
-- อินเดีย (IN): เงินเดือนต่ำที่สุด ประมาณ 30k–65k USD/ปี
-
-- ยุโรป (DE, GB): ระดับกลางค่อนไปทางต่ำ เมื่อเทียบกับ US/CA
-
-- US และ Canada เป็นตลาดที่ “ดึงดูด Talent ด้วยค่าตอบแทนสูง”
-
-**Job Count Heatmap (ขวา)**
-
-- US ครองจำนวนงาน สูงสุดทุก role
-
-- Data Scientist มีตำแหน่งที่เปิดรับ 8,238 ตำแหน่ง
-
-- Data Engineer มีตำแหน่งที่เปิดรับ 6,261 ตำแหน่ง
-
-- Machine Learning Engineer มีตำแหน่งที่เปิดรับ 4,223 ตำแหน่ง
-
-**สรุปจากข้อมูลได้ Insight:**
-
-US เป็นตลาดหลักด้าน Data/AI เพราะ ecosystem ทั้งหมดหมุนรอบ Data → ตั้งแต่ Startup → Big Tech
-
-Europe ตลาดค่อนข้างนิ่ง เงินเดือนและ demand อยู่ระดับกลาง
 
 ##
 **Graph 5 : Salary Distribution**

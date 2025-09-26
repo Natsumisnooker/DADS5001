@@ -29,7 +29,8 @@
 ### ****Data Science Roles Analysis (2020–2024)****
 ##
 </br>
-#### ****Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)****
+### <b>Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)</b>
+
 </br>
 </br>
 <p align="center">

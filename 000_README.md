@@ -12,7 +12,7 @@
 
 ##
 <h2>Insight : Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?</h2>
-##
+
 
 </br>
 <p align="center">

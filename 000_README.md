@@ -1,5 +1,5 @@
 
-<h1>"ใครอยากเป็น Data Science ยกมือขึ้น" </h1>
+<h1 class="heading-accent underline-soft">"ใครอยากเป็น Data Science ยกมือขึ้น" </h1>
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”
 ตลอดทศวรรษที่ผ่านมา Data Scientist กลายเป็น role ในฝันของใครหลาย ๆ คน ทั้งในแง่รายได้สูง โอกาสกว้าง และมีความสำคัญต่อการตัดสินใจเชิงกลยุทธ์ขององค์กร
@@ -10,7 +10,7 @@
 เพื่อหาคำตอบ เราจะใช้ข้อมูลจริงจาก **Data Science posting job ** มาวิเคราะห์ในแง่มุมของ จำนวนงาน, เงินเดือน, และการเติบโตของ roles ในสายงาน data
 ว่าใครคือดาวรุ่ง และใครกำลังถูกเบียดออกจาก spotlight
 </br>
-<h2>Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?</h2>
+<h3>Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?</h3>
 
 </br>
 <p align="center">
@@ -25,10 +25,9 @@
 เส้นกราฟพุ่งขึ้นสูงมาก สะท้อนว่า demand ในสาย Data/AI ขยายตัวแรงในตลาด ถ้ามองไปที่จำนวนงานที่เกิดขึ้นจริง จะเห็นชัดเลยว่า ตลาด Data & AI กำลังเปลี่ยนแปลงอย่างรวดเร็ว
 
 ##
-### ****Data Science Roles Analysis (2020–2024)****
-##
+<h2>Data Science Roles Analysis (2020–2024)</h2>
 </br>
-### <b>Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)</b>
+<h2>Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)</h2>
 
 </br>
 </br>

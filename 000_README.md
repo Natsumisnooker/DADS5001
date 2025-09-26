@@ -28,11 +28,15 @@
 เส้นกราฟพุ่งขึ้นสูงมาก สะท้อนว่า demand ในสาย Data/AI ขยายตัวแรงในตลาด ถ้ามองไปที่จำนวนงานที่เกิดขึ้นจริง จะเห็นชัดเลยว่า ตลาด Data & AI กำลังเปลี่ยนแปลงอย่างรวดเร็ว
 
 ##
-## ****Data Science Roles Analysis (2020–2024)****
+### ****Data Science Roles Analysis (2020–2024)****
 ##
 </br>
 </br>
-**Graph 2: Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)**
+
+#### ****Job Count Trend: Data Scientist vs Other Data/AI Roles (2020–2024)****
+
+</br>
+</br>
 <p align="center">
 <img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/0347bbeb-945f-4192-b48c-ec91fac002e3" />
 </p>

@@ -11,7 +11,11 @@
 ### **Insight : Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?**
 
 
+
+
 <img width="1385" height="689" alt="image" src="https://github.com/user-attachments/assets/5a3c01ac-2e00-4c12-b74d-76d3151e0d87" />
+
+
 
 
 เราลองย้อนดูข้อมูลจริงจาก Job Posting ของทุกประเทศ ช่วงปี 2020-2025 จากกราฟ ทุกตำแหน่งมีจำนวนงานเพิ่มขึ้นชัดเจน โดยเฉพาะช่วง 2022 → 2025

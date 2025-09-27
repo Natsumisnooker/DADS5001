@@ -11,6 +11,9 @@
 </br>
 <h3>Data Scientist ยังเป็นงานที่ "sexy" อยู่หรือไม่?</h3>
 
+##
+<h2>Data Science Roles Analysis (2020–2024)</h2>
+</br>
 </br>
 <p align="center">
 <img width="1385" height="689" alt="image" src="https://github.com/user-attachments/assets/5a3c01ac-2e00-4c12-b74d-76d3151e0d87" />
@@ -20,9 +23,7 @@
 </br>
 จากข้อมูล Job Posting ของทุกประเทศในช่วงปี 2020-2024 กราฟแสดงให้เห็นว่า ทุกตำแหน่งงานมีจำนวนงานเพิ่มขึ้นชัดเจน โดยเฉพาะช่วง 2022 ถึง 2024 เส้นกราฟพุ่งขึ้นสูงมาก สะท้อนว่า demand ในสาย Data/AI ขยายตัวแรงในตลาด ถ้ามองไปที่จำนวนงานที่เกิดขึ้นจริง จะเห็นว่าในปี 2024 Data science ยังคงเป็น role ที่มีความต้องการสูงสุด รองลงมาเป็น Data Engineer และ Data analyse ส่วน AI engineer เริ่มมีมากขึ้นหลังปี 2022 สอดคล้องกับกระแส Generative AI
 
-##
-<h2>Data Science Roles Analysis (2020–2024)</h2>
-</br>
+
 </br>
 <p align="center">
 <img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/0347bbeb-945f-4192-b48c-ec91fac002e3" />

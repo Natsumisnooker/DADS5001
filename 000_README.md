@@ -28,7 +28,7 @@
 <p align="center">
 <img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/0347bbeb-945f-4192-b48c-ec91fac002e3" />
 </p>
-<p align="center"><b>รูปที่ 2 แนวโน้มจำนวน Job ระหว่าง Data Scientist และ Other Roles in 2020 - 2024</b></p>
+<p align="center"><b>รูปที่ 2 จำนวน Job ระหว่าง Data Scientist และ Other Roles in 2020 - 2024</b></p>
 </br>
 </br>
 กราฟนี้แสดงจำนวนงานของ Data Scientist เทียบกับ Other Data/AI Roles  ตั้งแต่ปี 2020-2024

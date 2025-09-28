@@ -69,7 +69,8 @@ Other Data/AI Roles  : มีสัดส่วนเพิ่มขึ้นจ
 <p align="center">
 <img width="1596" height="790" alt="image" src="https://github.com/user-attachments/assets/7282da60-fa64-48b6-a1ab-2ce84540e08d" />
 </p>
-<p align="center"><b>รูปที่ 4 การเปรียบเทียบ Median Salary (ซ้าย) และ Job Count (ขวา) ของ Core Data Roles ใน 6 ประเทศหลัก (US, CA, GB, DE, AU, IN) ปี 2024 </b></p>
+<p align="center"><b>รูปที่ 4 การเปรียบเทียบ Median Salary (ซ้าย) และ Job Count (ขวา) ของ Core Data Roles ใน 6 ประเทศหลัก (US, CA, GB, DE, AU, IN) ปี 2024  อาจมีในบางประเทศ ไม่มีข้อมูล ทำให้พื้นที่เป็นสีขาว </b></p>
+ 
 </br>
 </br>
 

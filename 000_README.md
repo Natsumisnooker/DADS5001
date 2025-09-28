@@ -33,7 +33,7 @@
 </br>
 กราฟนี้แสดงจำนวนงานของ Data Scientist เทียบกับ Other Data/AI Roles  ตั้งแต่ปี 2020-2024
 จะเห็นหลังปี 2022 ตลาดงาน Data/AI เติบโตอย่างรวดเร็ว 
-Data Scientist ยังคงเติบโตต่อเนื่อง จาก 1925 งานในปี 2023 เป็น 8932 งาน ในปี 2024 แสดงว่าเป็น role ที่องค์กรต้องการอย่างสูง อย่างไรก็ตาม specialist roles เช่น AI Engineer, ML Engineer, Research Scientist, Data Engineer กลับเติบโตเร็วยิ่งกว่าจาก 4520 งาน ในปี 2023 เป็น 19817 งาน ในปี 2024 สะท้อนว่า  Data science  ยังเป็น role สำคัญ แต่ถูกเบียดลงเรื่อยๆ
+Data Scientist ยังคงเติบโตต่อเนื่อง จาก 1925 งานในปี 2023 เป็น 8932 งาน ในปี 2024 แสดงว่าเป็น role ที่องค์กรต้องการอย่างสูง อย่างไรก็ตาม specialist roles เช่น AI Engineer, ML Engineer, Research Scientist, Data Engineer โตแรงไม่แพ้กันจาก 4520 งาน ในปี 2023 เป็น 19817 งาน ในปี 2024 สะท้อนว่า  Data science  ยังเป็น role สำคัญ แต่ถูกเบียดลงเรื่อยๆ
 </br>
 </br>
 

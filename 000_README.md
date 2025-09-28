@@ -130,7 +130,7 @@ US เป็นตลาดหลักที่เป็นทั้ง Demand 
 </br>
 </br>
 <p align="center">
-<img width="713" height="394" alt="image" src="https://github.com/user-attachments/assets/883cf2db-948e-49de-aa30-4151377acdfd" />
+<img width="1384" height="783" alt="image" src="https://github.com/user-attachments/assets/883cf2db-948e-49de-aa30-4151377acdfd" />
 </p>
 <p align="center"><b>รูปที่ 7 Average Salary by State and Job Category </b></p>
 </br>

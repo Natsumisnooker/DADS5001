@@ -1,4 +1,4 @@
-<h1 class="heading-accent underline-soft">"ใครอยากเป็น Data Science ยกมือขึ้น" </h1>
+<h1 class="heading-accent underline-soft">"ใครอยากเป็น Data Scientist ยกมือขึ้น" </h1>
 
 ย้อนกลับไปปี 2012 Harvard Business Review เคยยกย่อง Data Scientist ว่าเป็น “The Sexiest Job of the 21st Century”
 ตลอดทศวรรษที่ผ่านมา Data Scientist กลายเป็น role ในฝันของใครหลาย ๆ คน ทั้งในแง่รายได้สูง โอกาสกว้าง และมีความสำคัญต่อการตัดสินใจเชิงกลยุทธ์ขององค์กร
@@ -50,11 +50,11 @@ Data Scientist ยังคงเติบโตต่อเนื่อง จ�
 
 Other Data/AI Roles  : มีสัดส่วนเพิ่มขึ้นจาก 51% ในปี 2020  → 68.9%  ในปี 2024
 
-หลังปี 2022 เป็นยุค AI boom ที่มาพร้อมกับ Generative AI, LLMs และ Foundation Models ทำให้ตลาด shift ไปสู่ Specialist มากขึ้น
+- หลังปี 2022 เป็นยุค AI boom ที่มาพร้อมกับ Generative AI, LLMs และ Foundation Models ทำให้ตลาด shift ไปสู่ Specialist มากขึ้น
 </br>
-ตลาดไม่ได้หดตัว แต่ความต้องการถูกกระจายไปยังตำแหน่งเฉพาะทาง เช่น  AI Engineer , ML engineer ,Research science ฯลฯ 
+- ตลาดไม่ได้หดตัว แต่ความต้องการถูกกระจายไปยังตำแหน่งเฉพาะทาง เช่น  AI Engineer , ML engineer ,Research science ฯลฯ 
 </br>
-Data Science ไม่ได้หายไป แต่  spotlight ถูก share ไปยัง specialist roles ที่เติบโตในยุค AI   
+- Data Science ไม่ได้หายไป แต่  spotlight ถูก share ไปยัง specialist roles ที่เติบโตในยุค AI   
 การเปลี่ยนแปลงนี้อาจมองได้ว่า “Sexiest Job” กำลังเข้าสู่ Specialist Ecosystem 
 
 ##

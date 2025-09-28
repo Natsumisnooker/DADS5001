@@ -107,10 +107,14 @@ US เป็นตลาดหลักที่เป็นทั้ง Demand 
 </p>
 <p align="center"><b>ตารางที่ 1 จำนวน Posting ตาม Job Category </b></p>
 </br>
-</br>
-
 
 </br>
+<p align="center">
+<img width="619" height="334" alt="image" src="https://github.com/user-attachments/assets/b2c221e0-0505-48a3-a08f-62d44352be3f" />
+</p>
+<p align="center"><b>ตารางที่ 2 จำนวน Posting Demand by State </b></p>
+</br>
+
 </br>
 <p align="center">
 <img width="1384" height="783" alt="image" src="https://github.com/user-attachments/assets/5e83c6e6-ea7c-4e05-ad8d-97f8ed9dcf2d" />

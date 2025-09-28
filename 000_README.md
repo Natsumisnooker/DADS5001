@@ -50,11 +50,12 @@ Data Scientist ยังคงเติบโตต่อเนื่อง จ�
 
 Other Data/AI Roles  : มีสัดส่วนเพิ่มขึ้นจาก 51% ในปี 2020  → 68.9%  ในปี 2024
 
-แสดงให้เห็นว่า หลังปี 2022 เป็นยุค AI boom ที่มาพร้อมกับ Generative AI, LLMs และ Foundation Models ทำให้ตลาด shift ไปสู่ Specialist มากขึ้น แสดงให้เห็นว่าตลาดของงานไม่ได้หดตัว แต่มีการกระจายความต้องการไปยังบทบาทอื่นมากขึ้น
+หลังปี 2022 เป็นยุค AI boom ที่มาพร้อมกับ Generative AI, LLMs และ Foundation Models ทำให้ตลาด shift ไปสู่ Specialist มากขึ้น
 </br>
-Data Scientist ยังไม่หายไป แต่ spotlight ถูกแชร์กลุ่มงาน specialist เช่น AI Engineer , ML engineer ,Research science ฯลฯ  บทบาทอาจเปลี่ยนแปลงไป จาก generalist สู่งานที่ specialist มากขึ้น
+ตลาดไม่ได้หดตัว แต่ความต้องการถูกกระจายไปยังตำแหน่งเฉพาะทาง เช่น  AI Engineer , ML engineer ,Research science ฯลฯ 
 </br>
-จาก “Sexiest Job” กำลังเข้าสู่ Specialist Ecosystem  ที่เติบโตพร้อมกันในยุค AI 
+Data Science ไม่ได้หายไป แต่  spotlight ถูก share ไปยัง specialist roles ที่เติบโตในยุค AI   
+การเปลี่ยนแปลงนี้อาจมองได้ว่า “Sexiest Job” กำลังเข้าสู่ Specialist Ecosystem 
 
 ##
 จากก่อนหน้านี้ที่เราดู “จำนวนงาน” → คราวนี้เราจะดู “รายได้” กันบ้าง  
